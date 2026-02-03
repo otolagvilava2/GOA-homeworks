@@ -33,10 +33,6 @@ print(type(birth_month))
 #string ის დაწერა integer თან ან float თან არ შეიძლება.integer ის დაწერა float თან თავისუფლად შეიძლება 
 
 
-aaa = "oto"
-bbb = "lagvialava"
-ccc = 13.5 
 
-print(aaa,bbb)
 
 
