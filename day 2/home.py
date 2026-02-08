@@ -70,5 +70,3 @@ print(name , age,Profession,height,Preferred_foot)
 
 
 
-
-
