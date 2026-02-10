@@ -112,4 +112,19 @@
 
 
 
- 
+
+# name = input(("what's your name?"))
+# print(name)
+
+# last_name = input(("what's your last name?"))
+# print(last_name)
+# age = input(("what's your age?"))
+# print(age)
+# country = input(("where are you from?"))\
+
+
+a = int(input("enter a random number"))
+b = int(input("enter a random number"))
+print(a + b)
+print(a * b)
+
