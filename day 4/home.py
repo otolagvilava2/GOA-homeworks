@@ -75,3 +75,4 @@ b = float(a)
 
 print(z)
 print(b)
+print(z > b)
