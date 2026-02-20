@@ -17,10 +17,19 @@
 #   print("you aren't logged in")
 
 
-a = (input("enter a random number:"))
-for i in a:
-    print(i)
+# a = (input("enter a random number:"))
+# for i in a:
+#     print(i)
 
 
+# a = input("enter a word")
+# for i in a:
+#     print(i)
 
         
+correct_password = "12345"
+user_password = input("enter your password")
+
+while user_password != correct_password:
+    print("Correct password")
+    user_password = input("enter your password again")
