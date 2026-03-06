@@ -65,7 +65,7 @@
 #         a += 1
    
 
-a =int(input("enter a number"))
-b = int(input("enter a number"))
-c = int(input("enter a number"))
-d =
+# a =int(input("enter a number"))
+# b = int(input("enter a number"))
+# c = int(input("enter a number"))
+# d =

@@ -63,6 +63,3 @@
     
 # print(mcire(10,7))
 
-word = "run"
-word[0] = "f"
-print(word)

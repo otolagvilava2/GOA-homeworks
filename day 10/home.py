@@ -101,18 +101,18 @@
 # print(list)
 
 
-a =int(input("number"))
-b = int(input("number"))
-c = int(input("number"))
-d = int(input("number"))
+# a =int(input("number"))
+# b = int(input("number"))
+# c = int(input("number"))
+# d = int(input("number"))
 
-list.append(a)
-list.append(b)
-list.append(c)
-list.append(d)
+# list.append(a)
+# list.append(b)
+# list.append(c)
+# list.append(d)
 
-if list > 100:
-    list.clear
-else:
-    list
-print(list)    
+# if list > 100:
+#     list.clear
+# else:
+#     list
+# print(list)    
