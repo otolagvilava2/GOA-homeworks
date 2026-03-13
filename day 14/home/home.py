@@ -45,12 +45,19 @@
 
 
 #8
-def shemowmeba(text,sityva):
-    for i in text:
-        if text == sityva:
-            print("True")
+# def shemowmeba(text,sityva):
+#     for i in text:
+#         if text == sityva:
+#             print("True")
 
-shemowmeba("soso magaria ","indauri") 
+# shemowmeba("soso magaria ","soso") 
 
 
-#9
+
+
+def between(a,b):
+    for i in range(a,b+1):
+        print (i)
+    
+    pass
+print(between(2,7))

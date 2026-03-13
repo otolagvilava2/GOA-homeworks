@@ -1,5 +1,5 @@
 #1
- # list = []
+# list = []
 
 # a = int(input("number:"))
 # b = int(input("number:"))

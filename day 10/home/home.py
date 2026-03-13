@@ -65,7 +65,8 @@
 # print(list)
 # list.sort(reverse = True)
 # print(list)
-
+# list.pop()
+# print(list)
 
 
 # list = []
@@ -116,3 +117,22 @@
 # else:
 #     list
 # print(list)    
+
+
+
+
+
+# n = int(input("dsg"))
+# n.append(list)
+
+# list = [6,8,1,6,8,9,66,116,7,67]
+
+# print(list)
+
+
+
+# a = int(input("f"))
+# b = int(input("aa"))
+# list = [66,11,55,135]
+# list.insert(2,a)
+# print(list)

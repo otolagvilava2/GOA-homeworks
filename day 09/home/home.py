@@ -24,17 +24,17 @@
 # print(sum)
 
 
-a = int(input("enter a number"))
-b = int(input("enter a number"))
-c = int(input("enter a number"))
-d = int(input("enter a number"))
-e = int(input("enter a number"))
+# a = int(input("enter a number"))
+# b = int(input("enter a number"))
+# c = int(input("enter a number"))
+# d = int(input("enter a number"))
+# e = int(input("enter a number"))
 
-list = [a,b,c,d,e]
+# list = [a,b,c,d,e]
 
-sum = list[0] + list[1] + list[2] + list[3] + list[4]
+# sum = list[0] + list[1] + list[2] + list[3] + list[4]
 
-print(sum)
+# print(sum)
 
 
 

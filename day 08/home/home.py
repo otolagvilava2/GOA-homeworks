@@ -59,7 +59,7 @@
 # a = 1
 # while a <= n:
 #     if n % 2 == 0:
-#         print("this is high then 0")
+#         print("this is higher then 0")
 #     else:
 #         print(n)
 #         a += 1
