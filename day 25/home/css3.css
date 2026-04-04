@@ -1,0 +1,11 @@
+#menutitle{
+    color: violet;
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#menuitems{
+    background-color: brown;
+    font-size: 25px;
+    text-align: left;
+
+}
