@@ -1,0 +1,62 @@
+h1{
+    text-decoration: overline dotted green;
+}
+h2{
+    text-decoration: overline dashed purple;
+}
+h3{
+    text-decoration: underline blue;
+}
+h4{
+    text-decoration: dashed double red;
+}
+h5{
+    text-decoration: overline double darkcyan;
+}
+
+.a{
+    text-transform: uppercase;
+}
+.b{
+    text-transform: uppercase;
+}
+.c{
+    text-transform: lowercase;
+}
+.d{
+    text-transform:lowercase ;
+}
+.e{
+    text-transform: capitalize;
+}
+
+.q{
+    text-shadow:250px 35px  purple ;
+}
+.w{
+    text-shadow: 100px 15px gold;
+}
+.r{
+    text-shadow: 75px blue;
+}
+.t{
+    text-shadow: 80px 35px red;
+}
+.y{
+    text-shadow: 50px 45px green;
+}
+.z{
+    font-weight: 500;font-family: 'Times New Roman', Times, serif;
+}
+.x{
+    font-weight: 300;font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.v{
+    font-weight: 800;font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.n{
+    font-weight: 300;font-family: 'Courier New', Courier, monospace;
+}
+.m{
+    font-weight: normal;font-family: monospace;
+}

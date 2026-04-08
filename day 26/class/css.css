@@ -1,0 +1,8 @@
+h1{
+    color: rgb(198, 137, 254);
+    font-size:35px ;
+    text-decoration: overline red dotted ;
+    text-transform: capitalize;
+    text-shadow: 250px 135px 2px gold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
