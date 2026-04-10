@@ -1,0 +1,20 @@
+#a:hover{
+    color: aqua;
+    font-size:25px ;
+}
+#b:hover{
+    color: green;
+
+}
+#c:active{
+    color: cadetblue;
+    font-size: 15px;
+}
+#d:visited{
+    font-size: 50px;
+    color: rebeccapurple;
+}
+#e:link{
+    text-decoration: none;
+    color: red;
+}

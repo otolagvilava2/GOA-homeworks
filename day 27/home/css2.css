@@ -1,0 +1,13 @@
+table{
+    border: 5px solid black;
+}
+th,td{
+    text-align: center;
+}
+th{
+    background-color: green;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+tr:nth-child(3){
+    color: chartreuse;
+}

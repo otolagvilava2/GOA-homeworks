@@ -1,0 +1,14 @@
+table{
+    border: 5px solid black;
+}
+th,td{
+    border: 1px solid black;
+}
+th{
+    background-color: green;
+}
+
+tr:nth-child(even){
+    border-radius: 5px;
+    background-color: green;
+}
