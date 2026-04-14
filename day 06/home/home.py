@@ -27,9 +27,11 @@
 #     print(i)
 
         
-correct_password = "12345"
-user_password = input("enter your password")
+# correct_password = "12345"
+# user_password = input("enter your password")
 
-while user_password != correct_password:
-    print("Correct password")
-    user_password = input("enter your password again")
+# while user_password != correct_password:
+#     print("Correct password")
+#     user_password = input("enter your password again":
+
+

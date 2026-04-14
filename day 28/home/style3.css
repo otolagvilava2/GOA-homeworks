@@ -1,0 +1,12 @@
+#first{
+    list-style-type: georgian ;
+    list-style-position:inside ;
+}
+ol{
+    list-style-type: disc;
+    list-style-position: outside;
+}
+#second{
+    list-style-type: lower-greek;
+    list-style-position:outside ;
+}

@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+}
+form{
+    border: 3px solid black;
+}
+h1{
+    color: blue;
+}
+label{
+    color: lightskyblue;
+}

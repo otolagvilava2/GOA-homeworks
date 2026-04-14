@@ -1,25 +1,27 @@
 #1
 # list = []
 
-# a = int(input("number:"))
-# b = int(input("number:"))
-# c = int(input("number:")) 
-# d = int(input("number:")) 
-# e = int(input("number:"))
+a = int(input("number:"))
+b = int(input("number:"))
+c = int(input("number:")) 
+d = int(input("number:")) 
+e = int(input("number:"))
 
-# list.append(a)
-# list.append(b)
-# list.append(c)
-# list.append(d)
-# list.append(e)
+list.append(a)
+list.append(b)
+list.append(c)
+list.append(d)
+list.append(e)
 
-# list.sort()
-# print(list)
 
-# ამოღებული_რიცხვი = list.pop(0)
 
-# print("ამოღებული რიცხვი არის", ამოღებული_რიცხვი)
-# print(list)
+list.sort()
+print(list)
+
+ამოღებული_რიცხვი = list.pop(0)
+
+print("ამოღებული რიცხვი არის", ამოღებული_რიცხვი)
+print(list)
 
 
 #2
