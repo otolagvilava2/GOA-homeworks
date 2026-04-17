@@ -1,0 +1,29 @@
+div{
+    display: inline-block;
+    background: blue;
+    margin: 10px;
+    width: 35px;
+    height: 30px;
+}
+
+
+#first{
+    max-width: 650;
+    min-width: 500;
+    
+}
+
+#second{
+    min-width: 500;
+    max-width: 300;
+}
+
+#third{
+    max-width: 500;
+    max-width: 350;
+}
+
+#fourh{
+    max-width: 600;
+    min-width: 750;
+}
