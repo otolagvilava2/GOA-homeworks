@@ -67,4 +67,16 @@
 
 
 
+list = [6,1,9,22,-6,-9,2,-6]
+neg_numbers=0
+pos_numbers=0
+for i in list:
+    if i < 0:
+        neg_numbers+=1
+    elif i >0:
+        pos_numbers+=1
+print( "სიაში უარყოფითი რიცხვი არის",neg_numbers)
+print("სიაში დადებითი რიცხვი არის",pos_numbers)
+
+
     
