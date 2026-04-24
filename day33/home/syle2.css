@@ -1,0 +1,10 @@
+main{
+    background-image: radial-gradient(  rgb(49, 115, 236),rgb(78, 231, 137),rgb(255, 112, 112),rgb(51, 94, 47));
+    width: 350px;
+    height: 500px;
+    position: absolute;
+    left: 350px;
+}
+div{
+    background-image: linear-gradient(blue,green,black);
+}

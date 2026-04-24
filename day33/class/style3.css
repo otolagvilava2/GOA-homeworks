@@ -1,0 +1,5 @@
+main{
+    width: 600px;
+    height: 600px;
+    background-image: conic-gradient(rgb(50, 73, 206),rgb(128, 23, 63),rgb(243, 185, 98));
+}

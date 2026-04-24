@@ -1,0 +1,74 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+main{
+    width: 400px;
+    height: 350px;
+    border: 4px solid black;
+    position: relative;
+    left: 40px;
+    top: 30px;
+    background-image: url(/day33/home/image/download\ \(2\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+div{
+    width: 400px;
+    height: 300px;
+    border: 4px solid black;
+    position: relative;
+    left: 40px;
+    top: 30px;
+    text-align:center;
+    padding: 23px;
+    
+}
+button{
+    width: 350px;
+    background-color: aqua;
+    position: relative;
+    top: 120px;
+}
+
+.meore{
+    width: 400px;
+    height: 350px;
+    position: absolute;
+    left: 500px;
+    top: 30px;
+    background-image: url(/day33/home/image/download.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h3{
+    font-size: 50px;
+}
+
+.mesame{
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    left: 500px;
+    top: 380px;
+}
+
+.teqsti{
+    font-size: 35px;
+}
+.gilaki{
+   width: 350px;
+    background-color: aqua;
+    position: relative;
+    top: 156px;
+}
+
+    
+
+
+
