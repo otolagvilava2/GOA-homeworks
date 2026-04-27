@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+div{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(218, 31, 31);
+    animation-name: modzraoba;
+    animation-delay: 2s;
+    animation-timing-function: ease-in-out;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+
+}
+@keyframes modzraoba{
+    0%{background-color:rgb(218, 31, 31) ;}
+    50%{width: 300px;}
+    100%{width: 100px;}
+}
+

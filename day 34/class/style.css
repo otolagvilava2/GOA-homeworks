@@ -18,7 +18,7 @@ div:hover{
     padding-top: 200px;
     transform-origin:5px ;
     background-size: c;
-    
+    transition-timing-function:cubic-bezier(0.19, 1, 0.22, 1);
     transition: 2;
     transform: rotate(240deg) translate(50px)
     
