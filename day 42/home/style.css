@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+:root {
+    --colors:green;
+    --width: 400px;
+    --height: 300px;
+    --font-family:monospace;
+
+}
+main{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background: url("https://picsum.photos/2200/3004") center/cover no-repeat ;
+}
+div{
+    width:var(--width) ;
+    height: var(--height);
+    border: 3px solid black;
+    background: rgba(37, 178, 221, 0.5);
+    backdrop-filter: blur(4px)  ;
+    
+    
+    
+}
+h1,p{
+    color: green;
+    text-align: center;
+    margin: 30px;
+    font-family: monospace;
+    width: 350px;
+}
